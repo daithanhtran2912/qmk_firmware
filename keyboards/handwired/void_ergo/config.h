@@ -22,10 +22,10 @@
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5
 
-#define ENCODERS_PAD_A { F5 }
-#define ENCODERS_PAD_B { F6 }
+// #define ENCODERS_PAD_A { F5 }
+// #define ENCODERS_PAD_B { F6 }
 
-#define ENCODERS_PAD_A_RIGHT { F6 }
-#define ENCODERS_PAD_B_RIGHT { F5 }
+// #define ENCODERS_PAD_A_RIGHT { F6 }
+// #define ENCODERS_PAD_B_RIGHT { F5 }
 
 #define SPLIT_USB_DETECT
